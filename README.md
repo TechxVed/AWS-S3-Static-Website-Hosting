@@ -15,7 +15,7 @@ By enabling **S3 Static Website Hosting**, uploading your website files, and con
 # 📖 Table of Contents
 
 * [Overview](#-overview)
-* [Architecture](#-images/Bucket.png)
+* [Architecture](#-Architecture)
 * [Features](#-features)
 * [Project Structure](#-project-structure)
 * [Prerequisites](#-prerequisites)
@@ -23,10 +23,10 @@ By enabling **S3 Static Website Hosting**, uploading your website files, and con
 * [Bucket Policy](#-bucket-policy)
 * [Verification](#-verification)
 * [Security Notes](#-security-notes)
-* [Cleanup](#-cleanup)
+* [Cleanup](#-Cleanup)
 * [Future Improvements](#-future-improvements)
 * [AWS Services Used](#-aws-services-used)
-* [Author](#-author)
+* [Author](#-Author)
 
 ---
 
